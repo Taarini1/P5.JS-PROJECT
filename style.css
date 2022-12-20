@@ -1,0 +1,17 @@
+#header{
+color:rgb(47, 0, 255);
+font-family: 'Pacifico', cursive;
+
+}
+
+body{
+    background:linear-gradient(#f02b16 10%,#f09116 20%,#f0e116 30%,#28f016 40%,#16e8f0 50%,#1657f0 60%,#8316f0 70%,#f016b9 80% , #16f0e1 90% , #f016da 100% );
+
+}
+
+#takesnap_btn{
+    width:195px;
+    height:55px;
+    font-family:'Times New Roman', Times, serif;
+font-size:30px;
+}
